@@ -2,7 +2,7 @@
 
 <p align="center">
   🌟 Aspiring Full-Stack Developer & Machine Learning Enthusiast 🌟<br>
-  🎓 BTech CSE @ Shiv Nadar University, Chennai<br>
+  🎓 BTech AIDS @ Shiv Nadar University, Chennai<br>
   💻 Passionate about building real-world impactful applications
 </p>
 
@@ -57,7 +57,7 @@ Currently diving deeper into:
 ## 📬 Connect with Me
 
 - 📧 Email: **gokulnishandh@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/gokulnishandh](https://www.linkedin.com/in/gokulnishandh)
+- 💼 LinkedIn: [linkedin.com/in/gokulnishandh](https://www.linkedin.com/in/gokul-nishandh/)
 - 💻 Portfolio: *Coming Soon...*
 
 ---
