@@ -3,7 +3,8 @@
 <p align="center">
   🌟 Aspiring Full-Stack Developer & Machine Learning Enthusiast 🌟<br>
   🎓 BTech AIDS @ Shiv Nadar University, Chennai<br>
-  💻 Passionate about building real-world impactful applications
+  💻 Passionate about building real-world impactful applications<br>
+  🌐 Portfolio: <a href="https://gokulnishandhst.vercel.app/">gokulnishandhst.vercel.app</a>
 </p>
 
 ---
@@ -25,23 +26,35 @@ Currently diving deeper into:
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- **Languages:** HTML, CSS, JavaScript
-- **Libraries & Frameworks:** React, Tailwind CSS, Bootstrap
-- **Tools & Platforms:** Webpack, npm, Sass, Vite
+- **Languages:** HTML, CSS, JavaScript  
+- **Libraries & Frameworks:** React, Tailwind CSS, Bootstrap  
+- **Tools & Platforms:** Webpack, npm, Sass, Vite  
 
 ### 🔧 Backend
-- **Languages:** JavaScript (Node.js), Python, Java, C
-- **Frameworks:** Express.js, Flask, Django
-- **Databases:** MySQL, PostgreSQL, SQLite, Supabase
+- **Languages:** JavaScript (Node.js), Python, Java, C  
+- **Frameworks:** Express.js, Flask, Django  
+- **Databases:** MySQL, PostgreSQL, SQLite, Supabase  
 
 ### 🤖 Machine Learning & AI
-- **Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy
-- **Tools & Platforms:** Jupyter Notebook, Google Colab
+- **Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy  
+- **Tools:** Jupyter Notebook, Google Colab  
 
 ### 🔗 Miscellaneous
-- **Version Control:** Git, GitHub
-- **IDE/Tools:** VS Code, Replit, LaTeX, WordPress
-- **Others:** APIs, Firebase, Netlify, Vercel
+- **Version Control:** Git, GitHub  
+- **IDE/Tools:** VS Code, Replit, LaTeX, WordPress  
+- **Others:** APIs, Firebase, Netlify, Vercel  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-Nishandh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-Nishandh&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Nishandh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -56,15 +69,23 @@ Currently diving deeper into:
 
 ## 📬 Connect with Me
 
-- 📧 Email: **gokulnishandh@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/gokulnishandh](https://www.linkedin.com/in/gokul-nishandh/)
-- 💻 Portfolio: *Coming Soon...*
+- 📧 Email: **gokulnishandh@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/gokulnishandh](https://www.linkedin.com/in/gokul-nishandh/)  
+- 💻 Portfolio: https://gokulnishandhst.vercel.app/
 
 ---
 
 ## 📈 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=gokulnishandh&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-Nishandh&color=blue&style=flat-square)
+
+---
+
+## 🔥 Fun Extras
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-Nishandh&theme=react-dark" alt="Activity Graph" />
+</p>
 
 ---
 
